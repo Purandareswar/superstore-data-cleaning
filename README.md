@@ -1,25 +1,42 @@
-# 📊 Superstore Data Cleaning Project
+# 📊 Superstore Data Analytics Project
 
-## 🚀 Task 1 - Data Analytics Internship
+## 🚀 Internship Tasks
 
-### 🔧 Work Done:
-- Data cleaning and preprocessing
-- Converted date columns to datetime
-- Removed duplicates
-- Standardized column names
-- Feature engineering (order_year, order_month, delivery_days)
+---
 
-### 📄 Files Included:
-- Data Cleaning Report (PDF)
-- Cleaned Dataset
-- Jupyter Notebook
+## ✅ Task 1: Data Cleaning
+- Cleaned dataset
+- Converted date columns
+- Feature engineering
+- Created Data Dictionary
 
-### 📌 Tools Used:
+📄 Report: Task1_Data_Cleaning_Report.pdf
+
+---
+
+## ✅ Task 2: Exploratory Data Analysis (EDA)
+- Analyzed sales by category
+- Analyzed profit by region
+- Identified monthly trends
+- Created visualizations
+
+📄 Report: Superstore_EDA_Report.pdf
+
+---
+
+## 📌 Tools Used:
 - Python
 - Pandas
+- Matplotlib
 - Google Colab
 
 ---
 
-## 📈 Next Step:
-Exploratory Data Analysis (EDA)
+## 📈 Key Insights:
+- Technology has highest sales
+- West region has highest profit
+- Sales peak in November
+
+---
+
+🚀 Next: Dashboard Creation
